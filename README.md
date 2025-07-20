@@ -18,4 +18,8 @@ The entire coding and visualization work is to be carried out in the Spyder IDE 
 
 This task not only strengthens foundational Python skills but also introduces key data science practices, making it highly applicable in a wide range of real-world domains. For example, in weather monitoring systems, similar scripts can be used to fetch real-time atmospheric data and display trends over time for different cities. In financial analysis, APIs from stock markets or cryptocurrency exchanges can be integrated to visualize market movements and trends. In IoT applications, sensor data can be pulled from cloud platforms and shown on live dashboards. In healthcare analytics, COVID-19 data or patient statistics can be visualized to track infections, recoveries, or resource needs. In agriculture, farmers can use real-time weather APIs to plan irrigation or crop selection based on temperature and rainfall forecasts. Even in e-commerce, product pricing or review trends from platforms like Amazon can be visualized to aid consumer behavior research. Overall, Task-1 provides practical experience in working with APIs, real-time data, and visualization techniques, all of which are essential skills for careers in data analysis, machine learning, business intelligence, and software development. This mini-project can be showcased in resumes, college projects, or personal portfolios as a demonstration of data handling and presentation skills in Python using the Spyder IDE.**
 
+#OUTPUT
+
+<img width="996" height="420" alt="Image" src="https://github.com/user-attachments/assets/f40e0aed-eef8-41d2-8ee5-c5d8ef7615f1" />
+
 
